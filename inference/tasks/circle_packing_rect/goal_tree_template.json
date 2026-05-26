@@ -1,0 +1,8 @@
+{
+  "id": "root",
+  "level": 0,
+  "description": "Pack 21 non-overlapping circles in a rectangle of perimeter 4 (width+height=2) with sum_of_radii > 2.366.",
+  "verify_code": "sum_r >= 2.366",
+  "expected_result": "sum_r > 2.366",
+  "children": []
+}

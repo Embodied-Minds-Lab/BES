@@ -1,0 +1,10 @@
+working_dir: ./
+excludes: ["/.git/"]
+env_vars:
+  TREE_SEARCH_DEBUG: "TRUE"
+  SWANLAB_API_KEY: ""
+  SWANLAB_MODE: "cloud"
+  SWANLAB_LOG_DIR: "./swanlab_log"
+  TENSORBOARD_DIR: "./tensorboard_log"
+  TORCH_NCCL_AVOID_RECORD_STREAMS: "1"
+  VLLM_ATTENTION_BACKEND: "XFORMERS"

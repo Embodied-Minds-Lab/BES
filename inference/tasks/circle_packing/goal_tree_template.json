@@ -1,0 +1,8 @@
+{
+  "id": "root",
+  "level": 0,
+  "description": "Pack 26 non-overlapping circles in [0,1]^2 with sum_of_radii >= 2.636.",
+  "verify_code": "sum_r >= 2.636",
+  "expected_result": "sum_r = 2.636",
+  "children": []
+}

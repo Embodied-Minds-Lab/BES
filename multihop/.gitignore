@@ -1,0 +1,9 @@
+*log*/
+__pycache__
+data/
+outputs/
+*.egg-info/
+*.log
+CLAUDE.md
+tests/
+retriever.endpoint.shared
