@@ -14,9 +14,7 @@ Search has been proposed as an effective method for self-improving language mode
 
 We propose **Bidirectional Evolutionary Search (BES)**, a search framework that couples *forward candidate evolution* with *backward goal decomposition*. The forward search augments standard expansion with evolution operators (combination, translocation, deletion, crossover) that recombine parts of existing trajectories into candidates that are difficult to reach from a single rollout. The backward search recursively decomposes the task objective into a tree of checkable sub-goals, producing dense intermediate feedback that prioritizes which forward candidates to grow.
 
-<p align="center">
-  <img src="assets/teaser.png" width="85%" />
-</p>
+https://github.com/user-attachments/assets/e2a9ac6d-a12d-4d77-adbc-98b1f84fb954
 
 ## Experiments
 
