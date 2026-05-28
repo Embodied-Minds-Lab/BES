@@ -1,7 +1,7 @@
 # BES: Self-Improving Language Models with Bidirectional Evolutionary Search
 
 <p align="center">
-  <a href="https://arxiv.org/abs/PLACEHOLDER"><img src="https://img.shields.io/badge/paper-arxiv.PLACEHOLDER-B31B1B.svg" /></a>
+  <a href="https://arxiv.org/abs/2605.28814"><img src="https://img.shields.io/badge/paper-arxiv.2605.28814-B31B1B.svg" /></a>
   <img src="https://img.shields.io/badge/python-%3E%3D3.10-blue" />
   <a href='https://huggingface.co/collections/Xkev/bes'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Page-blue'></a>
   <a href='https://guoweixu.com/bes/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
@@ -33,10 +33,13 @@ Each setting is self-contained under its own directory, with its own README, dat
 If you find this work useful, please cite:
 
 ```bibtex
-@article{bes2026,
-  title   = {PLACEHOLDER},
-  author  = {PLACEHOLDER},
-  journal = {PLACEHOLDER},
-  year    = {2026},
+@misc{xu2026selfimprovinglanguagemodelsbidirectional,
+      title={Self-Improving Language Models with Bidirectional Evolutionary Search}, 
+      author={Guowei Xu and Zhenting Qi and Huangyuan Su and Weirui Ye and Himabindu Lakkaraju and Sham M. Kakade and Yilun Du},
+      year={2026},
+      eprint={2605.28814},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2605.28814}, 
 }
 ```
