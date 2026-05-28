@@ -3,6 +3,8 @@
 <p align="center">
   <a href="https://arxiv.org/abs/PLACEHOLDER"><img src="https://img.shields.io/badge/paper-arxiv.PLACEHOLDER-B31B1B.svg" /></a>
   <img src="https://img.shields.io/badge/python-%3E%3D3.10-blue" />
+  <a href='https://huggingface.co/collections/Xkev/bes'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Page-blue'></a>
+  <a href='https://guoweixu.com/bes/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
 </p>
 
